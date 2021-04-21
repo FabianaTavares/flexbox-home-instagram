@@ -1,4 +1,4 @@
-# Descrição: Curso SASS e SCSS do básico ao avançado + Projetos
+# Curso SASS e SCSS do básico ao avançado + Projetos
 
 Este é um conjunto de codigos do curso "Aprenda o básico de SASS e SCSS criando um site" do autor Matheus Battisti, disponível na plataforma Udemy. Segue abaixo o link.
 [Curso SASS e SCSS do básico ao avançado + Projetos](https://www.udemy.com/course/sass-e-scss-do-basico-ao-avancado-projetos)
