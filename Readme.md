@@ -3,13 +3,13 @@
 Este é um conjunto de codigos do curso "Aprenda o básico de SASS e SCSS criando um site" do autor Matheus Battisti, disponível na plataforma Udemy. Segue abaixo o link.
 [Curso SASS e SCSS do básico ao avançado + Projetos](https://www.udemy.com/course/sass-e-scss-do-basico-ao-avancado-projetos)
 
-## Objetivos do Curso:
+## Objetivos do Curso
 
 Neste curso você vai aprender a criar projetos utilizando o SASS/SCSS como pré-processamento do seu CSS, agilizando muito o seu desenvolvimento e ainda dando acesso a recursos incríveis que o CSS não tem.
 
 Todos os recursos serão abordados de forma teórica e depois aplicaremos o mesmo na prática, para entender onde podem ser utilizados na vida real, o curso é extremamente prático e vai te preparar para o mercado de trabalho.
 
-## Aprendizado:
+## Aprendizado
 
 - Variáveis;
 - Nesting;
@@ -20,7 +20,7 @@ Todos os recursos serão abordados de forma teórica e depois aplicaremos o mesm
 - Operadores de seleção;
 - E muito mais!
 
-## Este Projeto:
+## Este Projeto
 
 Projeto com Flexbox: Home Instagram
 Para visualizar o projeto rodando, basta acessar o [Home instagram Fabiana!]()
